@@ -8,6 +8,25 @@
 	<link rel="pingback" href="<?php bloginfo( 'pingback_url' ); ?>" />
 
 	<?php wp_head(); ?>
+	<link href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:ital,wght@0,400;0,500;0,600;0,700;0,800;1,400;1,500;1,600;1,700;1,800&display=swap" rel="stylesheet">
+<style>
+	.nav > li > a {
+    font-family: "Barlow Condensed", sans-serif  !important
+}
+body ,h1, h2, h3, h4, h5, h6, .heading-font, .off-canvas-center .nav-sidebar.nav-vertical > li > a{
+    font-family: "Barlow Condensed", sans-serif  !important
+}
+.footer-2 {
+    background-color: transparent;
+}
+.footer-1 {
+    background-color: transparent;
+}
+footer{
+	color:#fff;
+	background: url(https://figtee.com/wp-content/uploads/2020/09/footer-bg.jpg);
+}
+</style>
 </head>
 
 <body <?php body_class(); ?>>

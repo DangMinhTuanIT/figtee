@@ -14,3 +14,9 @@ Version: 3.0
 
 
 }
+.nav > li > a {
+    font-family: "Barlow Condensed", sans-serif  !important
+}
+body {
+    font-family: "Barlow Condensed", sans-serif  !important
+}

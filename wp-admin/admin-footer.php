@@ -16,7 +16,11 @@ if ( ! defined( 'ABSPATH' ) ) {
  */
 global $hook_suffix;
 ?>
-
+<style>
+	.woocommerce-layout__header.is-scrolled {
+    display: none;
+}
+</style>
 <div class="clear"></div></div><!-- wpbody-content -->
 <div class="clear"></div></div><!-- wpbody -->
 <div class="clear"></div></div><!-- wpcontent -->
