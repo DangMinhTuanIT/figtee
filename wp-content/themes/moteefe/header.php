@@ -22,6 +22,9 @@ body ,h1, h2, h3, h4, h5, h6, .heading-font, .off-canvas-center .nav-sidebar.nav
 .footer-1 {
     background-color: transparent;
 }
+.box-section{
+	padding-top: 30px !important;
+}
 footer{
 	color:#fff;
 	background: url(https://figtee.com/wp-content/uploads/2020/09/footer-bg.jpg);
