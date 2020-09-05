@@ -16,6 +16,9 @@
 body ,h1, h2, h3, h4, h5, h6, .heading-font, .off-canvas-center .nav-sidebar.nav-vertical > li > a{
     font-family: "Barlow Condensed", sans-serif  !important
 }
+.nav-dropdown>li>a, .nav-column>li>a{
+    font-size: 20px
+}
 p.price.product-page-price span.woocommerce-Price-amount.amount {
     font-size: 30px;
     margin: 0 0 2px;
